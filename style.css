@@ -1,0 +1,25 @@
+
+.icon {
+padding: 20px;
+}
+.icon-name {
+    position: absolute;
+    left: 10%;
+    top: 7%;
+}
+div > nav > a {
+    padding: 20px;
+    float: right;
+}
+.nav-bar {
+    position: absolute;
+    top: 7%;
+    right: 7%;
+}
+.section-1 {
+    background-image: url('assets/image6.png');
+    width: auto;
+    height: auto;
+    width: 100%;
+    height: 500px;
+}
