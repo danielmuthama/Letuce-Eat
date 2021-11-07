@@ -46,3 +46,11 @@ a:hover {
     width: 100%;
     height: 500px;
 }
+
+.advert-section {
+    float: left;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    padding-top: 60px;
+}
