@@ -68,5 +68,50 @@ a:hover {
     background-color: #F19201;
     color: white;
     font-weight: 500;
+}
 
+.header1 {
+    color: #F19201;
+    font-weight: 800;
+    font-size: 22px;
+    position: absolute;
+    right: 50%;
+}
+
+.alignment {
+    text-align: center;
+    position: absolute;
+    right: 25%;
+    top: 550px;
+}
+.second-section {
+    background-color:#E1EBE6;
+    height: 500px;
+    text-align: center;
+}
+.container {
+    display:flex;
+    justify-content: center;
+    height: 500px;
+    padding-top: 130px;
+}
+.container > div {
+    background-color: white;
+    padding: 20px;
+    margin: 10px;    
+}
+.flex1 {
+    height: 50%;
+    width: 25%;
+    border-radius: 100px;
+    background-color: #F19201;
+}
+
+.flex2 {
+height: 50%;
+width: 25%;
+}
+.flex3 {
+height: 50%;
+width: 25%;
 }
