@@ -53,4 +53,20 @@ a:hover {
     flex-direction: column;
     margin-left: 50px;
     padding-top: 60px;
+    line-height: 1.7;
+}
+.advert {
+    font-weight: 600;
+    color: white;
+    font-size: 24px;
+    padding-bottom: 40px;
+}
+
+.button {
+    margin-left: 70px;
+    padding: 10px;
+    background-color: #F19201;
+    color: white;
+    font-weight: 500;
+
 }
