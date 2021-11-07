@@ -1,6 +1,9 @@
 .body-class {
     font-family: Roboto;
 }
+.nav-section {
+    background: rgba(0, 0, 0, 0.5);
+}
 .icon {
     padding: 20px;
 }
@@ -8,6 +11,7 @@
     position: absolute;
     left: 10%;
     top: 7%;
+    color: #F19201;
 }
 div > nav > a,p{
     padding-left: 20px;
@@ -30,6 +34,10 @@ div > nav > a,p{
 .nav {
     padding-top: 20px;
     padding-right: 30px;
+    color: white;
+}
+a:hover {
+    color: #F19201;
 }
 .section-1 {
     background-image: url('assets/image6.png');
