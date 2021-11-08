@@ -98,20 +98,33 @@ a:hover {
 .container > div {
     background-color: white;
     padding: 20px;
-    margin: 10px;    
+    margin: 10px;
+    justify-items: center;
+    justify-content: center;
 }
+
 .flex1 {
     height: 50%;
     width: 25%;
-    border-radius: 100px;
+}
+.flex-1 {
     background-color: #F19201;
+    border-radius: 50%;
+    padding: 20px 30px;
+    position: absolute;
+    left: 18%;
 }
-
-.flex2 {
-height: 50%;
-width: 25%;
+.flex-2 {
+    background-color: #F19201;
+    border-radius: 50%;
+    padding: 20px 30px;
+    position: absolute;
+    left: 48%;
 }
-.flex3 {
-height: 50%;
-width: 25%;
+.flex-3 {
+    background-color: #F19201;
+    border-radius: 50%;
+    padding: 20px 30px;
+    position: absolute;
+    left: 77%;
 }
