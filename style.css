@@ -128,3 +128,9 @@ a:hover {
     position: absolute;
     left: 77%;
 }
+.header {
+    padding-top: 75px;
+}
+.flex-p {
+    padding-right: 15%;
+}
