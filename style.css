@@ -40,11 +40,12 @@ a:hover {
     color: #F19201;
 }
 .section-1 {
-    background-image: url('assets/image6.png');
+    background-image: url('assets/image2.png');
     width: auto;
     height: auto;
     width: 100%;
     height: 500px;
+    background-size: cover;
 }
 
 .advert-section {
@@ -177,8 +178,13 @@ a:hover {
     color: white;
     padding-right: 110%;
 }
-.forth-section {
+.forth-section-1 {
     background-color: #E1EBE6;
+    height: 350px;
+}
+.forth-section-2 {
+    background-color: #E1EBE6;
+    height: 350px;
 }
 .alignment2 {
     position: absolute;
