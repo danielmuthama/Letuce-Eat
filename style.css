@@ -182,13 +182,33 @@ a:hover {
     background-color: #E1EBE6;
     height: 350px;
 }
+.header {
+    text-align: center;
+}
 .forth-section-2 {
     background-color: #E1EBE6;
-    height: 350px;
+    height: 500px;
 }
 .alignment2 {
     position: absolute;
     left: 22%;
     padding-top: 40px;
+}
+.image-p1 {
+    float: left;
+    width: auto;
+    height: auto;
+    max-height: 200px;
+    max-width: 300px;
+}
+.flex-p1 {
+    float:right;
+    text-align: right;
+}
+.flex-p {
+    float:right;
     text-align: center;
+}
+.header2 {
+    text-align: right;
 }
