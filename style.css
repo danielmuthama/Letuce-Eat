@@ -95,6 +95,7 @@ a:hover {
     justify-content: center;
     height: 500px;
     padding-top: 130px;
+    flex-direction: row;
 }
 .container > div {
     background-color: white;
@@ -102,11 +103,13 @@ a:hover {
     margin: 10px;
     justify-items: center;
     justify-content: center;
+    width: auto;
 }
 
 .flex1 {
     height: 50%;
     width: 25%;
+    text-align: center;
 }
 .flex-1 {
     background-color: #F19201;
@@ -115,19 +118,11 @@ a:hover {
     position: absolute;
     left: 18%;
 }
-.flex-2 {
+.flex-h {
     background-color: #F19201;
     border-radius: 50%;
+    margin-right: 80px;
     padding: 20px 30px;
-    position: absolute;
-    left: 48%;
-}
-.flex-3 {
-    background-color: #F19201;
-    border-radius: 50%;
-    padding: 20px 30px;
-    position: absolute;
-    left: 77%;
 }
 .header {
     padding-top: 75px;
@@ -211,4 +206,21 @@ a:hover {
 }
 .header2 {
     text-align: right;
+}
+.img-h {
+float: left;
+}
+.h4-h {
+float: right;
+}
+em {
+    color: #F19201;
+    position: relative;
+    top: 50px;
+    left: 80px;
+}
+.order {
+    position: relative;
+    top: 120px;
+    left: 160px;
 }
