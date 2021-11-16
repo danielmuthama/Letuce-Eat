@@ -225,19 +225,18 @@ em {
     left: 160px;
 }
 .fifth-section {
-    text-align: center;
     background-image: url("assets/image8.png");
     background-size: cover;
     width: 100%;
-    height: 400px; 
-    position: absolute;
+    height: 450px; 
+    color: white;
 }
-.moringa {
+
+.content {
+    padding-top: 100px;
     text-align: center;
 }
-.book {
-
-}
 .book-t {
-
+    padding: 50px;
 }
+
